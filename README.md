@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Maksym, a software engineer based in Poland.
+
 
 <!--
 **makstuk1410/makstuk1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
