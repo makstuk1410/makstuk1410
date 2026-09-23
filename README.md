@@ -16,7 +16,7 @@ Docker · Git
 
 🎮 Escape the Maze
 Full-stack server-authoritative browser game...
-[Repository] [Live Demo]
+[https://github.com/makstuk1410/escape-the-maze] [https://escape-the-maze-game-production.up.railway.app]
 
 💰 Personal Finance Manager
 Personal finance application...
