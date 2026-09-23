@@ -1,19 +1,34 @@
-## Hi there 👋
-I am Maksym, a software engineer based in Poland.
+# Hi, I'm Maksym 👋
 
-I am currently a student of Warsaw University of Technology at Applied Informatics.
+Applied Computer Science student at Warsaw University of Technology,
+focused on backend and full-stack development.
 
-<!--
-**makstuk1410/makstuk1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently looking for a Software Engineering Internship
+or Junior Developer position.
 
-Here are some ideas to get you started:
+## Tech Stack
+Java · Spring Boot · C# · ASP.NET Core
+TypeScript · React
+PostgreSQL · JPA/Hibernate · EF Core
+Docker · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+🎮 Escape the Maze
+Full-stack server-authoritative browser game...
+[Repository] [Live Demo]
+
+💰 Personal Finance Manager
+Personal finance application...
+[Repository] [Live Demo]
+
+🎓 Course Platform
+Team-developed course management platform...
+[Repository]
+
+## Currently
+🌱 Spring Boot · Backend Architecture · Security
+🧠 Data Structures & Algorithms
+
+## Contact
+LinkedIn · Email
