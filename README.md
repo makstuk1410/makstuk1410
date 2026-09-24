@@ -16,19 +16,16 @@ Docker · Git
 
 🎮 Escape the Maze
 Full-stack server-authoritative browser game...
-[https://github.com/makstuk1410/escape-the-maze] [https://escape-the-maze-game-production.up.railway.app]
+[Repository](https://github.com/makstuk1410/escape-the-maze) [Live Demo](https://escape-the-maze-game-production.up.railway.app)
 
 💰 Personal Finance Manager
 Personal finance application...
-[Repository] [Live Demo]
+[Repository](https://github.com/makstuk1410/personal_finance_manager) [Live Demo](https://personal-finance-manager-production-ab12.up.railway.app/)
 
 🎓 Course Platform
 Team-developed course management platform...
-[Repository]
+[Repository](https://github.com/pzespolowy-platforma-kursow/platforma-kursow)
 
-## Currently
-🌱 Spring Boot · Backend Architecture · Security
-🧠 Data Structures & Algorithms
 
 ## Contact
-LinkedIn · Email
+[LinkedIn](https://www.linkedin.com/in/maksym-andrushchenko/) · makstuk1410@gmail.com
