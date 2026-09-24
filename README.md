@@ -8,10 +8,10 @@ or Junior Developer position.
 
 ## Tech Stack
 
-Java · Spring Boot · C# · ASP.NET Core  
-TypeScript · React  
-PostgreSQL · JPA/Hibernate · EF Core  
-Docker · Git
+**Backend:** Java · Spring Boot · C# · ASP.NET Core · REST APIs  
+**Frontend:** TypeScript · React  
+**Databases:** SQL · PostgreSQL · JPA/Hibernate · EF Core  
+**Tools:** Docker · Git
 
 ## Featured Projects
 
