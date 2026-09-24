@@ -7,25 +7,46 @@ Currently looking for a Software Engineering Internship
 or Junior Developer position.
 
 ## Tech Stack
-Java · Spring Boot · C# · ASP.NET Core
-TypeScript · React
-PostgreSQL · JPA/Hibernate · EF Core
+
+Java · Spring Boot · C# · ASP.NET Core  
+TypeScript · React  
+PostgreSQL · JPA/Hibernate · EF Core  
 Docker · Git
 
 ## Featured Projects
 
-🎮 Escape the Maze
-Full-stack server-authoritative browser game...
-[Repository](https://github.com/makstuk1410/escape-the-maze) [Live Demo](https://escape-the-maze-game-production.up.railway.app)
+### 🎮 Escape the Maze
 
-💰 Personal Finance Manager
-Personal finance application...
-[Repository](https://github.com/makstuk1410/personal_finance_manager) [Live Demo](https://personal-finance-manager-production-ab12.up.railway.app/)
+Full-stack browser maze game with server-authoritative gameplay, real-time communication, authentication, and a leaderboard.
 
-🎓 Course Platform
-Team-developed course management platform...
+`Java` `Spring Boot` `TypeScript` `PostgreSQL` `WebSocket` `Docker`
+
+[Repository](https://github.com/makstuk1410/escape-the-maze) · [Live Demo](https://escape-the-maze-game-production.up.railway.app)
+
+### 💰 Personal Finance Manager
+
+Full-stack application for managing financial accounts, categories, transactions, and personal finances.
+
+`C#` `ASP.NET Core` `React` `TypeScript` `PostgreSQL` `Docker`
+
+[Repository](https://github.com/makstuk1410/personal_finance_manager) · [Live Demo](https://personal-finance-manager-production-ab12.up.railway.app/)
+
+### 🎓 Course Platform
+
+Team-developed course management platform with backend APIs for users, courses, materials, and learning progress.
+
+`TypeScript` `NestJS` `Next.js` `Prisma` `PostgreSQL` `Docker`
+
 [Repository](https://github.com/pzespolowy-platforma-kursow/platforma-kursow)
 
+### 🎮 Escape the Maze — JavaFX
+
+Desktop maze game with procedural maze generation, multiple difficulty levels, hazards, scoring, and automated tests.
+
+`Java` `JavaFX` `Maven` `JUnit`
+
+[Repository](https://github.com/makstuk1410/escape-the-maze-javafx-original)
 
 ## Contact
+
 [LinkedIn](https://www.linkedin.com/in/maksym-andrushchenko/) · makstuk1410@gmail.com
